@@ -1,0 +1,9 @@
+Move[1], Color: white
+Move From: (5, 6) -> Move To: (5, 5)
+pawn index :-1
+Move[2], Color: black
+Move From: (6, 0) -> Move To: (5, 2)
+pawn index :-1
+Move[3], Color: white
+Move From: (2, 6) -> Move To: (2, 4)
+pawn index :-1

@@ -1,0 +1,5 @@
+Strony do spritów szachów
+
+https://stackoverflow.com/questions/18686199/fill-unicode-characters-in-labels
+
+https://i.stack.imgur.com/SeZ5y.png

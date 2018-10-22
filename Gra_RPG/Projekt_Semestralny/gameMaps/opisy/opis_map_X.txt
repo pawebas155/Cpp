@@ -1,0 +1,35 @@
+// zagadnienie stworzone dla mapy: map_1
+
+// wielkosc planszy (x * y) : x=18, y=12
+
+// 1 warstwa - grafiki
+
+// 2 warstwa - grafiki
+
+// 3 warstwa - mowi gdzie postaæ moze chodziæ
+
+--> futute plan - przciwnicy
+// liczba przeciwnikow
+ -- pozycja tych przeciwnikow
+ -- nazwa przeciwnika
+ -- ID grafiki
+
+// iloœæ przejsc znajduj¹ca siê na aktualnej mapie : 2
+
+// lokalizacja kafelki gdzie bedize sie znajdowa³o przejscie (x, y) : x=15, y=0
+
+// iloœæ podkafelek na tej kafelce gdzie znajduje sie przejscie : teraz 9, bedzie 3
+
+// podkafelki na ktorych znajduje sie przejscie : teraz 1 2 3 4 5 6 7 8 9, bedzie 1 2 3
+
+ +---+---+---+
+ | 1 | 2 | 3 |
+ +---+---+---+
+ | 4 | 5 | 6 |
+ +---+---+---+
+ | 7 | 8 | 9 |
+ +---+---+---+
+
+--> future plan na jaka pozycje gracz nma przejsc - gdzie ma sie pojawic na nastepnej mapie
+
+// nazwa mapy na jak¹ jest przejscie : map_2

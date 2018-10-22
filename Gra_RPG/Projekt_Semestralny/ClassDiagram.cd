@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assassin">
+    <Position X="0.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAAgAAAAAAAAgIAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assassin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameWindow" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAoAkAAAEAISRYAIBkAAAAACEI5gAQABAgQhAQ=</HashCode>
+      <FileName>GameWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapReader" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACABAAAAAAAAAAAAAAAAABAAUCCAAAQAAAAAAIAgAA=</HashCode>
+      <FileName>MapReader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCAABABEAAAAABHAAAAIAAAIAAAAQEAAAAAAAAI=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Opponent">
+    <Position X="7.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>kEMALDVYAIEggUEIEABIEIAOghAkATBCAAgEgZACAAE=</HashCode>
+      <FileName>Opponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrkSpear">
+    <Position X="2.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAACAIA=</HashCode>
+      <FileName>OrkSpear.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrkSpearShield">
+    <Position X="5" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAAAAAAAAAAACIAAAAAAAAAAAQAAACAAA=</HashCode>
+      <FileName>OrkSpearShield.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrkSword">
+    <Position X="8.25" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAQAAAAAAAAAAgAAAAAIAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>OrkSword.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pirate">
+    <Position X="14.75" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAQAAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAACAAA=</HashCode>
+      <FileName>Pirate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAMAJAwAgIAgAAEAAIAIEIAKoAAAAZAAAAAACRACAAM=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Render" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQgAAAAEAAAAAAACABAAAgAAAADAABAASAQE=</HashCode>
+      <FileName>Render.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveGameStatus" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>SaveGameStatus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skeleton">
+    <Position X="11.5" Y="13.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAQAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Skeleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="coord" Collapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="nextMap" Collapsed="true">
+    <Position X="20" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="opponentPositionAndOutfit" Collapsed="true">
+    <Position X="21.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="opponentToRestore" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAIIAAA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="playerlist" Collapsed="true">
+    <Position X="20" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="championsOutfits" Collapsed="true">
+    <Position X="20" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAEACAAAAAAAAAAAAAAAAAAAAAAAAgABAEBA=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_00d9_1">
+    <Position X="18.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>usefullStructures.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

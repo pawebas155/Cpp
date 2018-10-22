@@ -1,0 +1,25 @@
+﻿  Assassin.cpp
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(209): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(261): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(276): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(276): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(283): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(290): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pawel\source\repos\basek_pawel_czwartek12\projekt\projekt_semestralny\projekt_semestralny\assassin.cpp(297): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Source.cpp
+  Skeleton.cpp
+  Player.cpp
+  Pirate.cpp
+  OrkSword.cpp
+  OrkSpearShield.cpp
+  OrkSpear.cpp
+  Opponent.cpp
+  GameWindow.cpp
+  Projekt_Semestralny.vcxproj -> C:\Users\pawel\Source\Repos\Basek_Pawel_czwartek12\Projekt\Projekt_Semestralny\Debug\Projekt_Semestralny.exe
+  Projekt_Semestralny.vcxproj -> C:\Users\pawel\Source\Repos\Basek_Pawel_czwartek12\Projekt\Projekt_Semestralny\Debug\Projekt_Semestralny.pdb (Partial PDB)
